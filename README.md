@@ -1,4 +1,4 @@
-##vertical steps of weui styles
+##weui styles of vertical step
 ```
 <step :current="step1" background-color='#fbf9fe'>
     <step-item title="申报" :value="value1"></step-item>
