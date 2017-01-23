@@ -100,7 +100,7 @@
   .vux-step-item-head {
     position: relative;
     display: inline-block;
-    margin: 0 -4px 0 18px;
+    margin: 0 0 0 18px;
     flex: 1;
   }
   .vux-step-item-icon, .vux-step-item-icon i:before{
